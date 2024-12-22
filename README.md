@@ -29,7 +29,7 @@ Below are snapshots of the key views from the dashboard:
 ![Sales Overview](d2.png)
 
 ### Dashboard-2
-![Geo Analysis](path/to/geo-screenshot.png)
+![Geo Analysis](d1.png)
 
 ## 🚀 Getting Started
 Follow these steps to use the dashboard:
