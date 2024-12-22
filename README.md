@@ -36,4 +36,4 @@ Follow these steps to use the dashboard:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/super-store-sales-dashboard.git
+   git clone https://github.com/VedanshPundir/Sales-dashboard.git
